@@ -1,9 +1,9 @@
-# safer-eval
+# safest-eval
 eval() in the safest way possible
 
 
 ```js
-import saferEval from 'safer-eval'
+import safestEval from 'safest-eval'
 
-saferEval('1 + 2')
+safestEval('1 + 2')
 ```
